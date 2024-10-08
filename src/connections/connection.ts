@@ -1,0 +1,1 @@
+export const ENPOINT_API="https://gimcloud.com.co/salespoint/api/";
